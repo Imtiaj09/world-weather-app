@@ -13,7 +13,7 @@ Open [World Weather App](https://world-weather-app9.netlify.app/) live link to v
 
 **Note: All the features about World Weather App!**
 
-1. # World Weather App is a web app to check current weather which is made with openweathermap API.
+1. World Weather App is a web app to check current weather which is made with openweathermap API.
    
-2.  This apps may have extended functionality, You can retrieve current weather data for a specific location, including Temperature, Humidity, Wind Speed, Cloud Coverage,  Feels Like and more.
+2. This apps may have extended functionality, You can retrieve current weather data for a specific location, including Temperature, Humidity, Wind Speed, Cloud Coverage,  Feels Like and more.
     
